@@ -1,4 +1,4 @@
-<h1> PSI - M3 - PROGRAMACAOESTRUTURADA - EXP.A03 </h1>
+# PSI - M3 - PROGRAMACAOESTRUTURADA - EXP.A03
 <h1>def adicionar_material(stock): </h1>
     nome = input("Nome do material: ")
     if nome in stock:
